@@ -1,0 +1,6 @@
+{
+	  "id"        : "preside-ext-first-time-login-lockdown"
+	, "title"     : "Preside admin first time login lockdown"
+	, "author"    : "Pixl8 Group"
+	, "version"   : "$VERSION_NUMBER"
+}
